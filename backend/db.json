@@ -1,0 +1,74 @@
+{
+  "favorites": [
+    {
+      "id": "1",
+      "name": "Mumbai",
+      "country": "IN",
+      "temperature": "30°C",
+      "weather": "Humid"
+    },
+    {
+      "id": "2",
+      "name": "Pune",
+      "country": "IN",
+      "temperature": "28°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "3",
+      "name": "Nagpur",
+      "country": "IN",
+      "temperature": "32°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "4",
+      "name": "Nashik",
+      "country": "IN",
+      "temperature": "27°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "5",
+      "name": "Aurangabad",
+      "country": "IN",
+      "temperature": "29°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "6",
+      "name": "Solapur",
+      "country": "IN",
+      "temperature": "34°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "7",
+      "name": "Amravati",
+      "country": "IN",
+      "temperature": "31°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "8",
+      "name": "Kolhapur",
+      "country": "IN",
+      "temperature": "26°C",
+      "weather": "Rainy"
+    },
+    {
+      "id": "9",
+      "name": "Jalgaon",
+      "country": "IN",
+      "temperature": "33°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "10",
+      "name": "Akola",
+      "country": "IN",
+      "temperature": "30°C",
+      "weather": "Sunny"
+    }
+  ]
+}
