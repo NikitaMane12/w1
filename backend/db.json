@@ -4,6 +4,7 @@
       "id": "1",
       "name": "Mumbai",
       "country": "IN",
+      "state": "Maharashtra",
       "temperature": "30°C",
       "weather": "Humid"
     },
@@ -11,6 +12,7 @@
       "id": "2",
       "name": "Pune",
       "country": "IN",
+      "state": "Maharashtra",
       "temperature": "28°C",
       "weather": "Sunny"
     },
@@ -18,6 +20,7 @@
       "id": "3",
       "name": "Nagpur",
       "country": "IN",
+      "state": "Maharashtra",
       "temperature": "32°C",
       "weather": "Hot"
     },
@@ -25,6 +28,7 @@
       "id": "4",
       "name": "Nashik",
       "country": "IN",
+      "state": "Maharashtra",
       "temperature": "27°C",
       "weather": "Pleasant"
     },
@@ -32,6 +36,7 @@
       "id": "5",
       "name": "Aurangabad",
       "country": "IN",
+      "state": "Maharashtra",
       "temperature": "29°C",
       "weather": "Sunny"
     },
@@ -39,6 +44,7 @@
       "id": "6",
       "name": "Solapur",
       "country": "IN",
+      "state": "Maharashtra",
       "temperature": "34°C",
       "weather": "Hot"
     },
@@ -46,6 +52,7 @@
       "id": "7",
       "name": "Amravati",
       "country": "IN",
+      "state": "Maharashtra",
       "temperature": "31°C",
       "weather": "Cloudy"
     },
@@ -53,6 +60,7 @@
       "id": "8",
       "name": "Kolhapur",
       "country": "IN",
+      "state": "Maharashtra",
       "temperature": "26°C",
       "weather": "Rainy"
     },
@@ -60,6 +68,7 @@
       "id": "9",
       "name": "Jalgaon",
       "country": "IN",
+      "state": "Maharashtra",
       "temperature": "33°C",
       "weather": "Hot"
     },
@@ -67,8 +76,729 @@
       "id": "10",
       "name": "Akola",
       "country": "IN",
+      "state": "Maharashtra",
       "temperature": "30°C",
       "weather": "Sunny"
+    },
+    {
+      "id": "11",
+      "name": "Thane",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "29°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "12",
+      "name": "Navi Mumbai",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "28°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "13",
+      "name": "Kalyan",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "30°C",
+      "weather": "Humid"
+    },
+    {
+      "id": "14",
+      "name": "Ulhasnagar",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "27°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "15",
+      "name": "Dombivli",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "32°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "16",
+      "name": "Vasai",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "26°C",
+      "weather": "Rainy"
+    },
+    {
+      "id": "17",
+      "name": "Virar",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "31°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "18",
+      "name": "Panvel",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "29°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "19",
+      "name": "Badlapur",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "28°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "20",
+      "name": "Bhiwandi",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "33°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "21",
+      "name": "Ahmednagar",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "30°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "22",
+      "name": "Latur",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "28°C",
+      "weather": "Humid"
+    },
+    {
+      "id": "23",
+      "name": "Satara",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "27°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "24",
+      "name": "Sangli",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "32°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "25",
+      "name": "Miraj",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "29°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "26",
+      "name": "Ratnagiri",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "30°C",
+      "weather": "Humid"
+    },
+    {
+      "id": "27",
+      "name": "Wardha",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "26°C",
+      "weather": "Rainy"
+    },
+    {
+      "id": "28",
+      "name": "Yavatmal",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "31°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "29",
+      "name": "Dhule",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "29°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "30",
+      "name": "Malegaon",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "28°C",
+      "weather": "Humid"
+    },
+    {
+      "id": "31",
+      "name": "Nandurbar",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "32°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "32",
+      "name": "Baramati",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "27°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "33",
+      "name": "Chandrapur",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "34°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "34",
+      "name": "Gondia",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "30°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "35",
+      "name": "Buldhana",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "28°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "36",
+      "name": "Hingoli",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "29°C",
+      "weather": "Humid"
+    },
+    {
+      "id": "37",
+      "name": "Nanded",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "32°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "38",
+      "name": "Osmanabad",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "31°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "39",
+      "name": "Parbhani",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "30°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "40",
+      "name": "Washim",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "28°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "41",
+      "name": "Jalna",
+      "country": "IN",
+      "state": "Maharashtra",
+      "temperature": "34°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "42",
+      "name": "Ahmedabad",
+      "country": "IN",
+      "state": "Gujarat",
+      "temperature": "35°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "43",
+      "name": "Surat",
+      "country": "IN",
+      "state": "Gujarat",
+      "temperature": "34°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "44",
+      "name": "Vadodara",
+      "country": "IN",
+      "state": "Gujarat",
+      "temperature": "33°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "45",
+      "name": "Rajkot",
+      "country": "IN",
+      "state": "Gujarat",
+      "temperature": "32°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "46",
+      "name": "Gandhinagar",
+      "country": "IN",
+      "state": "Gujarat",
+      "temperature": "31°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "47",
+      "name": "Bhuj",
+      "country": "IN",
+      "state": "Gujarat",
+      "temperature": "36°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "48",
+      "name": "Diu",
+      "country": "IN",
+      "state": "Dadra and Nagar Haveli",
+      "temperature": "29°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "49",
+      "name": "Kolkata",
+      "country": "IN",
+      "state": "West Bengal",
+      "temperature": "29°C",
+      "weather": "Humid"
+    },
+    {
+      "id": "50",
+      "name": "Howrah",
+      "country": "IN",
+      "state": "West Bengal",
+      "temperature": "28°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "51",
+      "name": "Siliguri",
+      "country": "IN",
+      "state": "West Bengal",
+      "temperature": "30°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "52",
+      "name": "Durgapur",
+      "country": "IN",
+      "state": "West Bengal",
+      "temperature": "31°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "53",
+      "name": "Asansol",
+      "country": "IN",
+      "state": "West Bengal",
+      "temperature": "32°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "54",
+      "name": "Bardhaman",
+      "country": "IN",
+      "state": "West Bengal",
+      "temperature": "28°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "55",
+      "name": "Bihar Sharif",
+      "country": "IN",
+      "state": "Bihar",
+      "temperature": "29°C",
+      "weather": "Humid"
+    },
+    {
+      "id": "56",
+      "name": "Patna",
+      "country": "IN",
+      "state": "Bihar",
+      "temperature": "30°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "57",
+      "name": "Bhagalpur",
+      "country": "IN",
+      "state": "Bihar",
+      "temperature": "31°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "58",
+      "name": "Gaya",
+      "country": "IN",
+      "state": "Bihar",
+      "temperature": "28°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "59",
+      "name": "Muzaffarpur",
+      "country": "IN",
+      "state": "Bihar",
+      "temperature": "29°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "60",
+      "name": "Bhuj",
+      "country": "IN",
+      "state": "Gujarat",
+      "temperature": "35°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "61",
+      "name": "Raipur",
+      "country": "IN",
+      "state": "Chhattisgarh",
+      "temperature": "33°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "62",
+      "name": "Bilaspur",
+      "country": "IN",
+      "state": "Chhattisgarh",
+      "temperature": "32°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "63",
+      "name": "Korba",
+      "country": "IN",
+      "state": "Chhattisgarh",
+      "temperature": "34°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "64",
+      "name": "Durg",
+      "country": "IN",
+      "state": "Chhattisgarh",
+      "temperature": "31°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "65",
+      "name": "Ranchi",
+      "country": "IN",
+      "state": "Jharkhand",
+      "temperature": "30°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "66",
+      "name": "Jamshedpur",
+      "country": "IN",
+      "state": "Jharkhand",
+      "temperature": "29°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "67",
+      "name": "Dhanbad",
+      "country": "IN",
+      "state": "Jharkhand",
+      "temperature": "31°C",
+      "weather": "Humid"
+    },
+    {
+      "id": "68",
+      "name": "Bokaro Steel City",
+      "country": "IN",
+      "state": "Jharkhand",
+      "temperature": "32°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "69",
+      "name": "Gurugram",
+      "country": "IN",
+      "state": "Haryana",
+      "temperature": "33°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "70",
+      "name": "Faridabad",
+      "country": "IN",
+      "state": "Haryana",
+      "temperature": "30°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "71",
+      "name": "Panipat",
+      "country": "IN",
+      "state": "Haryana",
+      "temperature": "32°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "72",
+      "name": "Ambala",
+      "country": "IN",
+      "state": "Haryana",
+      "temperature": "29°C",
+      "weather": "Humid"
+    },
+    {
+      "id": "73",
+      "name": "Shimla",
+      "country": "IN",
+      "state": "Himachal Pradesh",
+      "temperature": "24°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "74",
+      "name": "Manali",
+      "country": "IN",
+      "state": "Himachal Pradesh",
+      "temperature": "21°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "75",
+      "name": "Dharamshala",
+      "country": "IN",
+      "state": "Himachal Pradesh",
+      "temperature": "22°C",
+      "weather": "Humid"
+    },
+    {
+      "id": "76",
+      "name": "Kullu",
+      "country": "IN",
+      "state": "Himachal Pradesh",
+      "temperature": "23°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "77",
+      "name": "Srinagar",
+      "country": "IN",
+      "state": "Jammu and Kashmir",
+      "temperature": "25°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "78",
+      "name": "Jammu",
+      "country": "IN",
+      "state": "Jammu and Kashmir",
+      "temperature": "27°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "79",
+      "name": "Leh",
+      "country": "IN",
+      "state": "Ladakh",
+      "temperature": "20°C",
+      "weather": "Cool"
+    },
+    {
+      "id": "80",
+      "name": "Dehradun",
+      "country": "IN",
+      "state": "Uttarakhand",
+      "temperature": "28°C",
+      "weather": "Humid"
+    },
+    {
+      "id": "81",
+      "name": "Haridwar",
+      "country": "IN",
+      "state": "Uttarakhand",
+      "temperature": "29°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "82",
+      "name": "Nainital",
+      "country": "IN",
+      "state": "Uttarakhand",
+      "temperature": "22°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "83",
+      "name": "Haldwani",
+      "country": "IN",
+      "state": "Uttarakhand",
+      "temperature": "24°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "84",
+      "name": "Agra",
+      "country": "IN",
+      "state": "Uttar Pradesh",
+      "temperature": "30°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "85",
+      "name": "Lucknow",
+      "country": "IN",
+      "state": "Uttar Pradesh",
+      "temperature": "31°C",
+      "weather": "Humid"
+    },
+    {
+      "id": "86",
+      "name": "Varanasi",
+      "country": "IN",
+      "state": "Uttar Pradesh",
+      "temperature": "29°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "87",
+      "name": "Kanpur",
+      "country": "IN",
+      "state": "Uttar Pradesh",
+      "temperature": "30°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "88",
+      "name": "Gorakhpur",
+      "country": "IN",
+      "state": "Uttar Pradesh",
+      "temperature": "32°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "89",
+      "name": "Noida",
+      "country": "IN",
+      "state": "Uttar Pradesh",
+      "temperature": "28°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "90",
+      "name": "Meerut",
+      "country": "IN",
+      "state": "Uttar Pradesh",
+      "temperature": "31°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "91",
+      "name": "Bhopal",
+      "country": "IN",
+      "state": "Madhya Pradesh",
+      "temperature": "29°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "92",
+      "name": "Indore",
+      "country": "IN",
+      "state": "Madhya Pradesh",
+      "temperature": "30°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "93",
+      "name": "Gwalior",
+      "country": "IN",
+      "state": "Madhya Pradesh",
+      "temperature": "28°C",
+      "weather": "Pleasant"
+    },
+    {
+      "id": "94",
+      "name": "Jabalpur",
+      "country": "IN",
+      "state": "Madhya Pradesh",
+      "temperature": "32°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "95",
+      "name": "Ujjain",
+      "country": "IN",
+      "state": "Madhya Pradesh",
+      "temperature": "31°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "96",
+      "name": "Kota",
+      "country": "IN",
+      "state": "Rajasthan",
+      "temperature": "33°C",
+      "weather": "Sunny"
+    },
+    {
+      "id": "97",
+      "name": "Jaipur",
+      "country": "IN",
+      "state": "Rajasthan",
+      "temperature": "34°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "98",
+      "name": "Ajmer",
+      "country": "IN",
+      "state": "Rajasthan",
+      "temperature": "30°C",
+      "weather": "Cloudy"
+    },
+    {
+      "id": "99",
+      "name": "Jodhpur",
+      "country": "IN",
+      "state": "Rajasthan",
+      "temperature": "36°C",
+      "weather": "Hot"
+    },
+    {
+      "id": "100",
+      "name": "Udaipur",
+      "country": "IN",
+      "state": "Rajasthan",
+      "temperature": "30°C",
+      "weather": "Pleasant"
     }
   ]
 }
