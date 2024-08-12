@@ -4,7 +4,7 @@ import AddF from "./AddF";
 
 const Search = () => {
   const [city, setCity] = useState("");
-  const [weather, setWeather] = useState(null);
+  const [forecast, setForecast] = useState(null);
   const [error, setError] = useState(null);
 
   const cityHandler = (event) => {
@@ -14,15 +14,14 @@ const Search = () => {
   const fetchData = async () => {
     try {
       console.log("Fetching data for city:", city);
-      const res = await axios.get(`http://localhost:3000/favorites?q=${city}`);
+      const apiKey = "349db4a4d70726f5b27e0e75f112654c";
+      const res = await axios.get(
+        `https://api.openweathermap.org/data/2.5/forecast?q=${city}&units=metric&appid=${apiKey}`
+      );
       console.log("Response data:", res.data);
 
-      const matchedCity = res.data.find(
-        (item) => item.name.toLowerCase() === city.toLowerCase()
-      );
-
-      if (matchedCity) {
-        setWeather(matchedCity);
+      if (res.data) {
+        setForecast(res.data);
         setError(null);
       } else {
         setError("City not found.");
@@ -46,14 +45,21 @@ const Search = () => {
       <button onClick={searchHandler}>SEARCH</button>
 
       {error && <div className="error">{error}</div>}
-      {weather && (
+      {forecast && (
         <div className="res">
-          <h2>City: {weather.name}</h2>
-          <p>Temperature: {weather.temperature}°C</p>
-          <p>Weather: {weather.weather}</p>
+          <h2>City: {forecast.city.name}</h2>
+          <div className="forecast">
+            {forecast.list.slice(0, 5).map((item, index) => (
+              <div key={index} className="day-forecast">
+                <p>Date: {new Date(item.dt * 1000).toLocaleDateString()}</p>
+                <p>Temperature: {item.main.temp}°C</p>
+                <p>Weather: {item.weather[0].description}</p>
+              </div>
+            ))}
+          </div>
         </div>
       )}
-      {weather && <AddF weather={weather} />}
+      {forecast && <AddF weather={forecast.city} />}
     </div>
   );
 };
