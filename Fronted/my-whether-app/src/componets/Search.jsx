@@ -41,7 +41,12 @@ const Search = () => {
   return (
     <div className="Container">
       <h1>Welcome to Weather App</h1>
-      <input type="text" value={city} onChange={cityHandler} />
+      <input
+        type="text"
+        value={city}
+        onChange={cityHandler}
+        placeholder="Enter city"
+      />
       <button onClick={searchHandler}>SEARCH</button>
 
       {error && <div className="error">{error}</div>}
